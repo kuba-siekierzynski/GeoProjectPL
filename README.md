@@ -14,10 +14,7 @@ After the data is collected from wikipedia (which takes several seconds), the co
 
 Finally, when all geolocation data is collected, the code run the visualization part. Using OpenGL-supporting pyglet module, it creates a 2D surface and draws flickering diamonds in respective city locations. The size of each diamond is city population-dependent. The user can also hover the mouse cursor over each city and its name will be displayed.
 
-![Flickering cities](https://user-images.githubusercontent.com/23619663/35780613-6433b892-09de-11e8-8950-58ec9396b53d.png)
-
-Check for reference:
-![Polish cities](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/POLSKA_Miasta.png/800px-POLSKA_Miasta.png)
+<img src="https://user-images.githubusercontent.com/23619663/35780613-6433b892-09de-11e8-8950-58ec9396b53d.png" width=350 alt="Flickering cities"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/POLSKA_Miasta.png/800px-POLSKA_Miasta.png" width=350 alt="Polish cities" />
 
 
 ## Future dev (and notes to self)
