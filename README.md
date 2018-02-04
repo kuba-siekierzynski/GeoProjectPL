@@ -24,7 +24,7 @@ Check for reference:
 Future developments will include, according to my free time resources available:
 -- conversion to 3D
    - each city will be represented by a cube, instead of a diamond
-   - some 3D-related visualization options (rotation, zoom, etc.) will be available - much like in my other project - Lab3D
+   - some 3D-related visualization options (rotation, zoom, etc.) will be available - much like in my other project - [LAB 3D](https://github.com/kuba-siekierzynski/labyrinth3d)
    - navigating will include mouse and keyboard controls
    - color-coding - for now the flickering is just for fun, colors will have meanings depending on the visualization choice
    
